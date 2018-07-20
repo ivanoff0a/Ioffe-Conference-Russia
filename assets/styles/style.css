@@ -843,18 +843,23 @@ td .second-row {
 .poster-items {
     display: flex;
     flex-direction: column;
+    font-family: "Callibri";
 }
 
 .poster-item {
     margin-top: 20px;
     display: flex;
     flex-direction: column;
+    font-size: 10px;
 }
-
-
 
 .poster-h {
     font-weight: 700;
+    font-size: 13px;
+}
+
+.poster-p {
+    font-size: 8px;
 }
 
 /*============sect-sponsors================================*/
